@@ -2,6 +2,8 @@
 
 int main()
 {
-	printf("First Update");
-	return 0;
+	
+printf("Hello\n");
+printf("Version3");
+return 0;
 }
